@@ -4,7 +4,7 @@
   <img src="./hello.svg" alt="Hello I am Lee Sown" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=lhmson)
+![](https://komarev.com/ghpvc/?username=lhmson&color=blueviolet)
 
 <!--
 **lhmson/lhmson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://hit.yhype.me/github/profile?user_id=56032232&color=green)
