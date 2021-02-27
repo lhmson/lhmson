@@ -35,7 +35,7 @@
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Top langs :computer:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhmson&langs_count=10&layout=compact" alt="lhmson top langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhmson&langs_count=10&layout=compact&hide=objective-c,shell" alt="lhmson top langs" /></p>
 
 <h4 align="center">Some states :chart:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lhmson&show_icons=true&theme=react&hide=stars,issues&custom_title=Lee+Sown+ Public+State+Recently" alt="lhmson Profile Stats" /></p>
