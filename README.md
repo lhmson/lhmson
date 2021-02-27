@@ -8,7 +8,7 @@
 
 **Birthyear**: 2000  
 
-**Current Position**: an IT Student in 3rd year of exploring the world of Software Engineering at [University of Information Technology](https://en.uit.edu.vn/), Vietnam National University (Ho Chi Minh City)  
+**Current Position**: an IT Student exploring the world of Software Engineering from [University of Information Technology](https://en.uit.edu.vn/), Vietnam National University (Ho Chi Minh City)  
 
 **Hobbies**: English, reading, computer games (MOBA like League of Legends), human communication, leading a team,...  
 
