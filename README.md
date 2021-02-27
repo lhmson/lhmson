@@ -20,11 +20,11 @@
 
 ### :trophy: More Information
 
-I have the ability to implement practical IT strategies combined with human interaction at a wide variety of levels. My greatest strength is effectively communicating with others, which enables me to utilize the power of teamwork in any working environment.  
+I have the ability to implement **practical IT strategies** combined with **human interaction** at a wide variety of levels. My greatest strength is **effectively communicating** with others, which enables me to utilize the **power of teamwork** in any working environment.  
 
-I was originally a student who study languages (English) at high school, as well as a freelance English translator (2015-2018) so used to connecting everyone by ideas and messages.
+I was originally a student who study languages (English) at high school, as well as a freelance English translator (2015-2018) so used to connecting everyone by **ideas and messages** or so.
 
-After developing a passion for the field of computer software, I have been making a great effort to become a qualified software engineer in near future.
+After developing a passion for the field of computer software, I have been making a great effort to become a **qualified software engineer** in near future.
 
 > **Sharing is connecting**
 
