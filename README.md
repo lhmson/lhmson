@@ -32,7 +32,7 @@ After developing a passion for the field of computer software, I have been makin
 
 * **Tech**: C# (.NET), C++, Java, HTML5, CSS3, JavaScript, ReactJS, Git, OOP, Testing
 * **Core**: English Manipulation, Researching & Reporting, Microsoft Office, Problem Solving & Logical Thinking
-* **Soft**: Project Management, Self-Learning & Self-Motivation, Communication & Presentation, Teamwork & Adaptability
+* **Soft**: Project Management, Self-Learning & Self-Motivation, Communication & Presentation, Teamwork
 
 <h2 align="center">You can reach me at :point_down:</h2>
 
