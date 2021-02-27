@@ -4,8 +4,6 @@
   <img src="./hello.svg" alt="Hello I am Lee Sown" />
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=56032232&color=green)
-
 ![](https://komarev.com/ghpvc/?username=lhmson)
 
 <!--
@@ -22,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=56032232&color=green)
