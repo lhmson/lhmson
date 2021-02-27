@@ -30,8 +30,8 @@ After developing a passion for the field of computer software, I have been makin
 
 :sunrise_over_mountains: **Skills**
 
-* **Tech**: C# (.NET), C++, Java, HTML5, CSS3, JavaScript, ReactJS, Git, OOP, Testing
-* **Core**: English Manipulation, Researching & Reporting, Microsoft Office, Problem Solving & Logical Thinking
+* **Tech**: C# (.NET, ASP.NET Core, WPF), C++, Java, Python, NodeJS | HTML5, CSS3, JavaScript, ReactJS, React Native | MySQL, SQL Server, Firebase | Git, OOP, Testing
+* **Core**: English Manipulation, Data Structures, Algorithms, Researching & Reporting, Microsoft Office, Problem Solving & Logical Thinking
 * **Soft**: Project Management, Self-Learning & Self-Motivation, Communication & Presentation, Teamwork
 
 <h2 align="center">You can reach me at :point_down:</h2>
