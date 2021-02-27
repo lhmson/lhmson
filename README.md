@@ -4,7 +4,9 @@
   <img src="./hello.svg" alt="Hello I am Lee Sown" />
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=56032232)
+![](https://hit.yhype.me/github/profile?user_id=56032232&color=green)
+
+![](https://komarev.com/ghpvc/?username=lhmson)
 
 <!--
 **lhmson/lhmson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
