@@ -1,4 +1,6 @@
-### Hello, I'm Le Hoang Minh Son (Lee Sown) 👋
+### Welcome to my profile 👋
+
+![Hello, I am Lee Sown](./hello.svg)
 
 <!--
 **lhmson/lhmson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
