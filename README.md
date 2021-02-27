@@ -14,9 +14,11 @@
 
 **Career Orientation**: a Software Developer, a professional Business Analyst heading for a Project Manager role  
 
+**Languages**: Vietnamese (native), English (proficiency), Japanese (basic)  
+
 **Motto**:  *`Start all from scratch, catch all from stars`*   
 
-### More Information
+### :trophy: More Information
 
 I have the ability to implement practical IT strategies combined with human interaction at a wide variety of levels. My greatest strength is effectively communicating with others, which enables me to utilize the power of teamwork in any working environment.  
 
@@ -26,7 +28,7 @@ After developing a passion for the field of computer software, I have been makin
 
 > **Sharing is connecting**
 
-#### Skills
+:sunrise_over_mountains: **Skills**
 
 * **Tech**: C# (.NET), C++, Java, HTML5, CSS3, JavaScript, ReactJS, Git, OOP, Testing
 * **Core**: English Manipulation, Researching & Reporting, Microsoft Office, Problem Solving & Logical Thinking
