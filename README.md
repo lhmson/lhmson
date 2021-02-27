@@ -4,6 +4,26 @@
   <img src="./hello.svg" alt="Hello I am Lee Sown" />
 </p>
 
+**Name**: Lê Hoàng Minh Sơn (you can call me Lee Sown)  
+
+**Birthyear**: 2000  
+
+**Current Position**: an IT Student in 3rd year of exploring the world of Software Engineering at [University of Information Technology](https://www.uit.edu.vn/), Vietnam National University (Ho Chi Minh City)  
+
+**Hobbies**: English, reading, computer, human communication,…  
+
+**Motto**:  *`Start all from scratch, catch all from stars`*   
+
+### More Information
+
+I have the ability to implement practical IT strategies combined with human interaction at a wide variety of levels. My greatest strength is effectively communicating with others, which enables me to utilize the power of teamwork in any working environment.  
+
+I was originally a student who study languages (English) at high school, as well as a freelance English translator (2015-2018) so used to connecting everyone by ideas and messages.  
+
+This is my personal blog for updating things related to my journey of acquiring knowledge about the world around me. I love to look, to learn and to live in a constantly changing society. Hope you have fun! :v  
+
+> **Sharing is connecting**
+
 <h2 align="center">You can reach me at :point_down:</h2>
 
 <p align="center">
@@ -23,12 +43,12 @@
     <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Le Hoang Minh Son Messenger Inbox" height="30" width="30">
   </a>
   
-  <a href="https://github.com/lhmson">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Le Hoang Minh Son Github Profile" height="30" width="30">
-  </a>
-  
   <a href="https://www.instagram.com/leesown1520/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Le Hoang Minh Son Instagram Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://lhmson.github.io/">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Le Hoang Minh Son Github Profile" height="30" width="30">
   </a>
 </p>
 
