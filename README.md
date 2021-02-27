@@ -4,6 +4,34 @@
   <img src="./hello.svg" alt="Hello I am Lee Sown" />
 </p>
 
+<h2 align="center">You can reach me at :point_down:</h2>
+
+<p align="center">
+  <a href="mailto:lehoangminhson123@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Le Hoang Minh Son Gmail Send" height="30" width="30">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/leesown/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Le Hoang Minh Son LinkedIn Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.facebook.com/le.son.5439">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Le Hoang Minh Son Facebook Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://m.me/le.son.5439">
+    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Le Hoang Minh Son Messenger Inbox" height="30" width="30">
+  </a>
+  
+  <a href="https://github.com/lhmson">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Le Hoang Minh Son Github Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.instagram.com/leesown1520/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Le Hoang Minh Son Instagram Profile" height="30" width="30">
+  </a>
+</p>
+
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Top langs :computer:</h4>
