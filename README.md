@@ -62,6 +62,8 @@ Since developing a passion for the field of computer software, I have been makin
   </a>
 </p>
 
+<h2 align="center"><a href="https://lhmson.github.io/leesown_portfolio/">Tiny porfolio website</a></p>
+
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Top langs :computer:</h4>
