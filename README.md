@@ -30,7 +30,7 @@ Since developing a passion for the field of computer software, I have been makin
 
 :sunrise_over_mountains: **Skills**
 
-* **Tech**: C# (.NET, ASP.NET Core, WPF), C++, Java, Python, NodeJS | HTML5, CSS3, JavaScript, ReactJS, React Native | MySQL, SQL Server, Firebase | Git, OOP, Testing
+* **Tech**: NodeJS, C# (.NET, ASP.NET Core, WPF), C++, Java, Python  | HTML5, CSS3, JavaScript, ReactJS, React Native | MongoDB, SQL Server, MySQL, Firebase | Git, OOP, Testing
 * **Core**: English Manipulation, Data Structures, Algorithms, Researching & Reporting, Microsoft Office, Problem Solving & Logical Thinking
 * **Soft**: Project Management, Self-Learning & Self-Motivation, Communication & Presentation, Teamwork
 
