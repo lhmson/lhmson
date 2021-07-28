@@ -76,7 +76,13 @@ Since developing a passion for the field of computer software, I have been makin
   <img src="http://github-readme-streak-stats.herokuapp.com?user=lhmson&hide_border=true" />
 </div>
 
-<!-- <p align="center"><img src="https://i.pinimg.com/originals/ab/c8/05/abc805563d75437aa698b7c0df476302.gif" alt="Thank you for coming in"></p> -->
+<div align=center>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<p align="center"><img src="https://i.pinimg.com/originals/ab/c8/05/abc805563d75437aa698b7c0df476302.gif" alt="Thank you for coming in"></p>
 
 ![](https://komarev.com/ghpvc/?username=lhmson&color=blueviolet)
 
