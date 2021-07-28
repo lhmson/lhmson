@@ -78,7 +78,7 @@ Since developing a passion for the field of computer software, I have been makin
 
 <div align=center>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lhmson&title=MultiLanguage,Commit,Repositories&column=3&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
