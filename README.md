@@ -76,9 +76,15 @@ Since developing a passion for the field of computer software, I have been makin
   <img src="http://github-readme-streak-stats.herokuapp.com?user=lhmson&hide_border=true" />
 </div>
 
-<div align=center>
+<div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=lhmson&title=MultiLanguage,Commit,Repositories&column=3&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+  
+  ![animation-graph](https://github.com/lhmson/lhmson/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
