@@ -8,13 +8,15 @@
 
 **Birthyear**: 2000  
 
-**Current Position**: an IT Student exploring the world of Software Engineering from [University of Information Technology](https://en.uit.edu.vn/), Vietnam National University (Ho Chi Minh City)  
+**Education**: Studied Computer Software Engineering at [University of Information Technology](https://en.uit.edu.vn/), Vietnam National University (Ho Chi Minh City)  
 
-**Hobbies**: English, reading, computer games (MOBA like League of Legends), human communication, leading a team,...  
+**Current Position**: Software Engineer at [KMS Technology](https://kms-technology.com/)  
 
-**Career Orientation**: a Software Developer, a professional Business Analyst heading for a Project Manager role  
+**Career Orientation**: a qualified Software Engineer heading for a Team Leader or Project Manager role  
 
-**Languages**: Vietnamese (native), English (proficiency), Japanese (basic)  
+**Hobbies**: learning new languages, reading, computer games (MOBA like League of Legends), human communication, leading a team,...  
+
+**Languages**: Vietnamese (native), English (proficient), Japanese (basic)  
 
 **Motto**:  *`Start all from scratch, catch all from stars`*   
 
@@ -22,16 +24,16 @@
 
 I have the ability to implement **practical IT strategies** combined with **human interaction** at a wide variety of levels. My greatest strength is **effectively communicating** with others, which enables me to utilize the **power of teamwork** in any working environment.  
 
-I was originally a student who study languages (English) at high school, as well as a freelance English translator (2015-2018) so used to connecting everyone by **ideas and messages** or so.
+I was originally a student who studied languages (English) in high school, as well as a freelance English translator (2015-2018) so I am used to connecting with everyone through **ideas and messages** or so.
 
-Since developing a passion for the field of computer software, I have been making a great effort to become a **qualified software engineer** in near future.
+Since developing a passion for the field of computer software, I have been making a great effort to become a **qualified software engineer** in the near future.
 
 > **Sharing is connecting**
 
 :sunrise_over_mountains: **Skills**
 
-* **Tech**: NodeJS, C# (.NET, ASP.NET Core, WPF), C++, Java, Python  | HTML5, CSS3, JavaScript, ReactJS, React Native | MongoDB, SQL Server, MySQL, Firebase | Git, OOP, Testing
-* **Core**: English Manipulation, Data Structures, Algorithms, Researching & Reporting, Microsoft Office, Problem Solving & Logical Thinking
+* **Tech**: HTML5, CSS3, JavaScript, ReactJS, React Native | NodeJS, C#, C++, Java, Python | MongoDB, PostgreSQL, MySQL, Firebase | AWS, Azure
+* **Core**: English Manipulation, Data Structures, Algorithms, Researching & Reporting, Problem Solving & Logical Thinking
 * **Soft**: Project Management, Self-Learning & Self-Motivation, Communication & Presentation, Teamwork
 
 <h2 align="center">You can reach me at :point_down:</h2>
@@ -70,10 +72,10 @@ Since developing a passion for the field of computer software, I have been makin
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhmson&langs_count=10&layout=compact&hide=objective-c,shell,starlark" alt="lhmson top langs" /></p>
 
 <h4 align="center">Some states :chart:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lhmson&show_icons=true&theme=react&hide=stars,issues&custom_title=Lee+Sown+ Public+State+Recently" alt="lhmson Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lhmson&show_icons=true&hide_rank=true&theme=react&include_all_commits=true&hide=prs,issues,contribs&custom_title=Lee+Sown+Public+State+Recently" alt="lhmson Profile Stats" /></p>
 
 <div align=center>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lhmson&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lhmson&hide_border=true&hide_current_streak=true" />
 </div>
 
 <div align="center">
