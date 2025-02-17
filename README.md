@@ -12,13 +12,15 @@
 
 **Current Position**: Software Engineer at [KMS Technology](https://kms-technology.com/)  
 
-**Career Orientation**: a qualified Software Engineer heading for a Team Leader or Project Manager role  
+**Career Orientation**: a qualified Software Engineer, Frontend Focus with FullStack Versatility
 
-**Hobbies**: learning new languages, reading, computer games (MOBA like League of Legends), human communication, leading a team,...  
+**Hobbies**: learning new languages, reading, cognitive games, human communication, journal writing, travelling to new places and exploring the world...  
 
 **Languages**: Vietnamese (native), English (proficient), Japanese (basic)  
 
-**Motto**:  *`Start all from scratch, catch all from stars`*   
+**Mottos**:  
+  *`Widen your sight, mind your brain, train your health, smell your success`*   
+  *`Embrace connections that come your way, do not cling to those that fade.`*   
 
 ### :trophy: More Information
 
@@ -32,9 +34,9 @@ Since developing a passion for the field of computer software, I have been makin
 
 :sunrise_over_mountains: **Skills**
 
-* **Tech**: HTML5, CSS3, JavaScript, ReactJS, React Native | NodeJS, C#, C++, Java, Python | MongoDB, PostgreSQL, MySQL, Firebase | AWS, Azure
+* **Tech**: HTML5, CSS3, JavaScript, TypeScript, ReactJS, React Native, Redux, Vite | NodeJS, Java | MongoDB, PostgreSQL, MySQL, Firebase | AWS, Azure | Docker, Kubernetes, Git, DevOps, Agile
 * **Core**: English Manipulation, Data Structures, Algorithms, Researching & Reporting, Problem Solving & Logical Thinking
-* **Soft**: Project Management, Self-Learning & Self-Motivation, Communication & Presentation, Teamwork
+* **Soft**: Time Management, Self-Learning & Self-Motivation, Communication & Presentation, Teamwork, Adaptability  
 
 <h2 align="center">You can reach me at :point_down:</h2>
 
@@ -47,16 +49,8 @@ Since developing a passion for the field of computer software, I have been makin
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Le Hoang Minh Son LinkedIn Profile" height="30" width="30">
   </a>
   
-  <a href="https://www.facebook.com/le.son.5439">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Le Hoang Minh Son Facebook Profile" height="30" width="30">
-  </a>
-  
   <a href="https://m.me/le.son.5439">
     <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="Le Hoang Minh Son Messenger Inbox" height="30" width="30">
-  </a>
-  
-  <a href="https://www.instagram.com/leesown1520/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Le Hoang Minh Son Instagram Profile" height="30" width="30">
   </a>
   
   <a href="https://lhmson.github.io/">
